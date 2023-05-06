@@ -6,7 +6,7 @@
   <link href="http://tachikoma.love/atom.xml" rel="self"/>
   
   <link href="http://tachikoma.love/"/>
-  <updated>2023-05-06T08:27:16.841Z</updated>
+  <updated>2023-05-06T08:27:49.339Z</updated>
   <id>http://tachikoma.love/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://tachikoma.love/posts/40103/"/>
     <id>http://tachikoma.love/posts/40103/</id>
     <published>2023-05-06T08:00:17.000Z</published>
-    <updated>2023-05-06T08:27:16.841Z</updated>
+    <updated>2023-05-06T08:27:49.339Z</updated>
     
     <content type="html"><![CDATA[<p>#网站日志1<br>经过二三天的努力，网站终于初步创建完成。真是不容易啊，期间为了加一些花里胡哨的内容，导致出现我解决不了的BUG，推倒重建了两次。这回还是稳一点，功能少一些没关系，网站别崩就行了。其实利用HEXO框架搭建博客也没有那么难的。我是对计算机一窍不通，代码一点都看不懂的，但是按照HEXO文档和BUTTERFLY的文档一步一步来，就可以搞出来。还有B站UP–Fomalhaut的视频和教程也提供了很大的帮助。<a href="http://fomal.cc/">fomal.cc</a>这是他的网页链接。</p><p>后期我会试着逐渐完善这个网站，在不搞崩的情况下，试着加一些新东西。</p>]]></content>
     
