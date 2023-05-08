@@ -10,6 +10,6 @@ http://tachikoma.love/link/index.html
 http://tachikoma.love/categories/index.html
 http://tachikoma.love/tags/index.html
 http://tachikoma.love/
-http://tachikoma.love/tags/%E5%A4%A7%E8%AF%AF/
 http://tachikoma.love/tags/%E6%97%A5%E5%BF%97-%E6%B5%8B%E8%AF%95/
+http://tachikoma.love/tags/%E5%A4%A7%E8%AF%AF/
 http://tachikoma.love/categories/%E6%97%A5%E5%BF%97/
