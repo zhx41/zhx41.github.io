@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tachikoma.love/picture/index.html</loc>
+    
+    <lastmod>2023-05-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://tachikoma.love/picture/ACG/index.html</loc>
+    
+    <lastmod>2023-05-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://tachikoma.love/picture/shot/index.html</loc>
+    
+    <lastmod>2023-05-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://tachikoma.love/posts/40103/</loc>
     
     <lastmod>2023-05-06</lastmod>
@@ -21,15 +48,6 @@
   
   <url>
     <loc>http://tachikoma.love/about/index.html</loc>
-    
-    <lastmod>2023-05-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://tachikoma.love/picture/index.html</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -67,22 +85,22 @@
 
   <url>
     <loc>http://tachikoma.love/</loc>
-    <lastmod>2023-05-06</lastmod>
+    <lastmod>2023-05-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://tachikoma.love/tags/%E5%A4%A7%E8%AF%AF/</loc>
-    <lastmod>2023-05-06</lastmod>
+    <loc>http://tachikoma.love/tags/%E6%97%A5%E5%BF%97-%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://tachikoma.love/tags/%E6%97%A5%E5%BF%97-%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-05-06</lastmod>
+    <loc>http://tachikoma.love/tags/%E5%A4%A7%E8%AF%AF/</loc>
+    <lastmod>2023-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -91,7 +109,7 @@
   
   <url>
     <loc>http://tachikoma.love/categories/%E6%97%A5%E5%BF%97/</loc>
-    <lastmod>2023-05-06</lastmod>
+    <lastmod>2023-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
